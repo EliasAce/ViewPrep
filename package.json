@@ -1,0 +1,25 @@
+{
+  "name": "viewprep",
+  "version": "1.0.0",
+  "description": "AI-powered interview preparation platform for practicing interviews and improving through feedback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasAce/ViewPrep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EliasAce/ViewPrep/issues"
+  },
+  "homepage": "https://github.com/EliasAce/ViewPrep#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.2",
+    "dotenv": "^18.0.10"
+  }
+}
